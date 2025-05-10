@@ -9,11 +9,13 @@ The Chinese word for “beautiful” is 美丽 — or *měilì* in Pinyin. **Mei
 
 ![Meili Commander Snapshot](./vCommander_snapshot.jpg)
 
-Meili Commander's main features include:
+Meili Commander's current features include:
 
-- Dual-pane layout  
-- Multi-tab interface  
-- Keyboard-centric design
+- [X] Dual-pane layout  
+- [X] Multi-tab interface  
+- [X] Keyboard-centric design
+- [ ] `#TODO` Support current [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+- [ ] `#TODO` Support current macOS styling, including Dark Theme
 
 If you're a keyboard-focused user, you might enjoy this tool.
 
@@ -26,7 +28,7 @@ If you're a keyboard-focused user, you might enjoy this tool.
 
 ---
 
-## ⌨️ Keyboard Shortcuts
+## `#WIP` ⌨️ Keyboard Shortcuts
 
 Meili Commander offers two modes:
 
