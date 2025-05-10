@@ -32,47 +32,43 @@ Meili Commander offers two modes:
 - **Normal Mode**: For users unfamiliar with Vim
 - **Vim Mode**: For Vim users and power keyboarders  
 
+Note: All *Normal Mode* shortcuts also work in *Vim mode*.
+
 You can switch modes in **Settings**.
 
----
 
 ### 🔹 Normal Mode
 
-#### ▸ Window Navigation
-
 | Shortcut Key  | Shortcut Hint | Action |
-|:-------------:|:-------------:|:-------|
-| `Tab`| Switch focus between left and right panes
-
-
-#### ▸ File Operations
-
-| Shortcut Key  | Shortcut Hint | Action |
-|:-------------:|:-------------:|:-------|
-| `⌘` `O` | Open folder under cursor |
-| `Enter` | |
-| `→` | |
-| `Backspace` | Go back to parent folder |
-| `←` | |
-| `↑`, `↓`| Move focus up |
-| `↑`, `↓`| Move focus down |
-| `Space`| Select file — supports multiple files selection |
-| `⌘` `Enter` | Reveal in Finder |
-| `⌘` `I`| File info |
-| `F2`| Rename |
-| `F3`| Preview | 
-| `F4`| Edit — Set Editor in Settings |  
-| `F5`| Copy to other pane |
-| `F6`| Move to other pane |
-| `F7`| New folder |
-| `⇧` `F7`| New file |  
-| `F8`| Delete |
-
-
-#### ▸ Tab Management
-
-| Shortcut Key  | Shortcut Hint | Action |
-|:-------------:|:-------------:|:-------|
+|:--------------|:-------------:|:-------|
+| | | |
+| 𝕎𝕚𝕟𝕕𝕠𝕨 ℕ𝕒𝕧𝕚𝕘𝕒𝕥𝕚𝕠𝕟 | | |
+| | | |
+| `Tab`| | Switch focus between left and right panes |
+| | | |
+| 𝔽𝕚𝕝𝕖 𝕆𝕡𝕖𝕣𝕒𝕥𝕚𝕠𝕟𝕤 | | |
+| | | |
+| `⌘` `O` | | Open folder under cursor |
+| `Enter` | | — |
+| `→` | | — |
+| `Backspace` | | Go back to parent folder |
+| `←` | | — |
+| `↑`, `↓` | | Move focus up |
+| `↑`, `↓` | | Move focus down |
+| `Space` | | Select file — supports multiple files selection |
+| `⌘` `Enter` | | Reveal in Finder |
+| `⌘` `I`| | File info |
+| `F2`| | Rename |
+| `F3`| | Preview | 
+| `F4`| | Edit — Set Editor in Settings |  
+| `F5`| | Copy to other pane |
+| `F6`| | Move to other pane |
+| `F7`| | New folder |
+| `⇧` `F7`| | New file |  
+| `F8`| | Delete |
+| | | |
+| 𝕋𝕒𝕓 𝕄𝕒𝕟𝕒𝕘𝕖𝕞𝕖𝕟𝕥 | | |
+| | | |
 | `⌘` `T`| New tab  
 | `⌘` `W`| Close tab  
 | `⌥` `⌘` `←` | Previous tab |
@@ -81,22 +77,16 @@ You can switch modes in **Settings**.
 | `⌥` `⌘` `→` | `⌃` `Tab`| Next tab  
 | `⌘` `U`| Swap pane tabs  
 | `⌘` `E`| Equalise both tabs  
-
-
-#### ▸ Clipboard & Edit
-
-| Shortcut Key  | Shortcut Hint       | Action |
-|:-------------:|:-------------------:|:-------|
+| | | |
+| ℂ𝕝𝕚𝕡𝕓𝕠𝕒𝕣𝕕 & 𝔼𝕕𝕚𝕥 | | |
+| | | |
 | `⌘` `C` | | Copy  |
 | `⌘` `V` | | Paste  |
 | `⌘` `A` | | Select all  |
 | `⌃` `⌘` `C` | | Compare (set tool in Preferences)  |
-
-
-#### ▸ Folder Navigation
-
-| Shortcut Key  | Shortcut Hint | Action |
-|:-------------:|:-------------:|:-------|
+| | | |
+| 𝔽𝕠𝕝𝕕𝕖𝕣 ℕ𝕒𝕧𝕚𝕘𝕒𝕥𝕚𝕠𝕟 | | |
+| | | |
 | `⇧` `⌘` `G`   |               | Go to folder  |
 | `⇧` `⌘` `H`   |               | Home |
 | `⇧-⌘-G`       |               | Go to folder      |
@@ -107,35 +97,23 @@ You can switch modes in **Settings**.
 | `⇧-⌘-C`       |               | Root      |
 | `⇧-⌘-L`       |               | Downloads      |
 | `⇧-⌘-U`       |               | Utilities      |
-
-
-#### ▸ Quick Search
-
-| Shortcut Key  | Shortcut Hint | Action |
-|:-------------:|:-------------:|:-------|
+| | | |
+| ℚ𝕦𝕚𝕔𝕜 𝕊𝕖𝕒𝕣𝕔𝕙 | | |
+| | | |
 | *Type filename*  | | Fuzzy match (Pinyin supported)      |
 | `ESC`     | | Clear input      |
-
-
-#### ▸ Favourites
-
-| Shortcut Key  | Shortcut Hint | Action |
-|:-------------:|:-------------:|:-------|
+| | | |
+| 𝔽𝕒𝕧𝕠𝕦𝕣𝕚𝕥𝕖𝕤 | | |
+| | | |
 | `⌘-D`         |               | Open favourites  |
-
-
----
-
 
 ### 🔸 Vim Mode
 
-All standard shortcuts also work in Vim mode. The following **additional** Vim-style keys are available:
-
-
-#### ▸ Navigation
-
 | Shortcut Key  | Shortcut Hint | Action |
-|:-------------:|:-------------:|:-------|
+|:--------------|:-------------:|:-------|
+| | | |
+| ℕ𝕒𝕧𝕚𝕘𝕒𝕥𝕚𝕠𝕟 | | |
+| | | |
 | `h` | Go up      |
 | `l` | Open folder / file      |
 | `j` | Down (`10j` = 10x down)      |
@@ -146,12 +124,9 @@ All standard shortcuts also work in Vim mode. The following **additional** Vim-s
 | `M` | Middle of view      |
 | `H` | Top of view      |
 | `L` | Bottom of view      |
-
-
-#### ▸ File Actions
-
-| Shortcut Key  | Shortcut Hint | Action |
-|:-------------:|:-------------:|:-------|
+| | | |
+| 𝔽𝕚𝕝𝕖 𝔸𝕔𝕥𝕚𝕠𝕟𝕤 | | |
+| | | |
 | `S`, `cc` | Rename (select all text)      |
 | `i`, `a`, `A` | Rename (cursor at end)      |
 | `I` | Rename (cursor at start)      |
@@ -163,12 +138,9 @@ All standard shortcuts also work in Vim mode. The following **additional** Vim-s
 | `/` | Search (supports Pinyin)      |
 | `⌘ n` | Next match      |
 | `⌘ p` | Previous match      |
-
-
-#### ▸ Tabs
-
-| Shortcut Key  | Shortcut Hint | Action |
-|:-------------:|:-------------:|:-------|
+| | | |
+| ℙ𝕒𝕟𝕖𝕤 | | |
+| | | |
 | `gt` | Next tab      |
 | `gT` | Previous tab      |
 
@@ -179,3 +151,4 @@ All standard shortcuts also work in Vim mode. The following **additional** Vim-s
 ## 📜 License
 
 Licensed under [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).:
+
