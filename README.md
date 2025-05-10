@@ -89,4 +89,66 @@ You can switch modes in **Settings**.
 #### ▸ Folder Navigation
 
 | `⇧` `⌘` `G`| Go to folder  
-| `⇧` `⌘` `H`| Home  
+| `⇧` `⌘` `H`| Home
+- `⇧-⌘-G`: Go to folder  
+- `⇧-⌘-H`: Home  
+- `⇧-⌘-D`: Desktop  
+- `⇧-⌘-A`: Applications  
+- `⇧-⌘-O`: Documents  
+- `⇧-⌘-C`: Root  
+- `⇧-⌘-L`: Downloads  
+- `⇧-⌘-U`: Utilities  
+
+#### ▸ Quick Search
+
+- *Type filename*: Fuzzy match (Pinyin supported)  
+- `ESC`: Clear input  
+
+#### ▸ Favourites
+
+- `⌘-D`: Open favourites  
+
+---
+
+### 🔸 Vim Mode
+
+All standard shortcuts also work in Vim mode. The following **additional** Vim-style keys are available:
+
+#### ▸ Navigation
+
+- `h`: Go up  
+- `l`: Open folder / file  
+- `j`: Down (`10j` = 10x down)  
+- `k`: Up  
+- `gg`: First item  
+- `G`: Last item  
+- `Ngg` / `NG`: Go to Nth item  
+- `M`: Middle of view  
+- `H`: Top of view  
+- `L`: Bottom of view  
+
+#### ▸ File Actions
+
+- `S`, `cc`: Rename (select all text)  
+- `i`, `a`, `A`: Rename (cursor at end)  
+- `I`: Rename (cursor at start)  
+- `dd`: Delete item (supports repetition)  
+- `d`: Delete selected items  
+- `yy`: Copy item  
+- `y`: Copy selected  
+- `p`: Paste (supports repetition)  
+- `/`: Search (supports Pinyin)  
+- `⌘-n`: Next match  
+- `⌘-p`: Previous match  
+
+#### ▸ Tabs
+
+- `gt`: Next tab  
+- `gT`: Previous tab  
+
+---
+
+## 📜 License
+
+Licensed under [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
